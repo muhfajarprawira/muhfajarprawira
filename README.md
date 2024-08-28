@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fajar Prawira</h1>
 <h3 align="center">I'm a passionate Web Developer from indonesia with a love for building dynamic and responsive websites. I have a solid understanding of modern web technologies and am always eager to learn and experiment with new tools and frameworks</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhfajarprawira&label=Profile%20views&color=0e75b6&style=flat" alt="muhfajarprawira" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@fjr27p" target="blank"><img src="https://img.shields.io/twitter/follow/@fjr27p?logo=twitter&style=for-the-badge" alt="@fjr27p" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@fjr27p" target="blank"><img src="https://img.shields.io/twitter/follow/fjr27p?logo=twitter&style=for-the-badge" alt="@fjr27p" /></a> </p>
 
 - 🌱 I’m currently learning **Framework php CodeIgniter and Laravel**
 
